@@ -76,7 +76,7 @@ Recipe app is an app to store recipes. Each recipe is stored based on the catago
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="/wireframe.jpeg?raw=true" title='Video Walkthrough' width='' ' />
+<img src="/wireframe.jpeg"/>
 
 ### [BONUS] Digital Wireframes & Mockups
 

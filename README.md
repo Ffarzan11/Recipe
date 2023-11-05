@@ -95,3 +95,12 @@ Recipe app is an app to store recipes. Each recipe is stored based on the catago
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+# Sprint 1 
+#### Goals Achieved: 
+* My recipe, New, categories and Favorites tabs developed
+* Wireframes and necessary designs created
+* Tab View Created for the UI
+#### video demo
+<img src="/sprint1.gif"/>
+

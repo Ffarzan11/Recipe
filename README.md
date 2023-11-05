@@ -30,9 +30,9 @@ Recipe app is an app to store recipes. Each recipe is stored based on the catago
 
 **Required Must-have Stories**
 
-* The user will first select from catagories of food
-* The catagories will be displayed in form of blocks
-* The user can see lists of recipes based on the catagory
+* The user will first select from categories of food
+* The categories will be displayed in the form of blocks
+* The user can see lists of recipes based on the category
 * User can write and save recipe
 
 
@@ -45,8 +45,10 @@ Recipe app is an app to store recipes. Each recipe is stored based on the catago
 ### 2. Screen Archetypes
 
 - [ ] [list first screen here]
-* Browse page 
-* The page contains images of the recipes along with names
+* Browse page to view the recipes
+* Favorites page to view the recipes marked as favorite
+* New recipe page to add nee recipes
+* Catagories page containing different categories of recipes organized in forms of blocks
 
 [list second screen here]
 * [list associated required story here]

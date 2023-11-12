@@ -9,8 +9,10 @@ import SwiftUI
 struct HomeView: View {
     var body: some View {
         NavigationStack{
-            Text("My recipes")
-                .navigationTitle("My recipes")
+            ScrollView{
+                RecipeList(recipes: Recipe.all)
+            }
+            .navigationTitle("My Recipes")
         }
     }
 }
@@ -19,3 +21,4 @@ struct HomeView_Previews: PreviewProvider {
         HomeView()
     }
 }
+ 

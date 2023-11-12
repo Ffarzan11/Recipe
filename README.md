@@ -106,3 +106,18 @@ Recipe app is an app to store recipes. Each recipe is stored based on the catago
 #### video demo
 <img src="/sprint1.gif"/>
 
+
+# Sprint 2 Recipe App
+#### To D0 (Achieved)
+- Recipe cards added to home page
+- Navigation added to Home page
+- Recipes added with images and instructions
+- Catagories added
+- Navigation added to catagores
+- Recipes has been sorted by categories
+
+Hours Spent: 4
+#### Video demo
+https://imgur.com/a/shcdZp1
+
+
